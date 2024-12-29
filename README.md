@@ -1,12 +1,8 @@
-## Hi there 👋
-
-Hi, I’m Micheal Adeniyi.
+## Hi, I’m Micheal Adeniyi.
 
 👀 I have a strong background in research, data analysis (Excel, SQL, Tableau), and teaching. I'm skilled in scientific writing, project coordination, and strategic planning, with a passion for leveraging analytical skills to drive impactful decision-making in industries.
 
-🌱Hi, I’m Micheal Adeniyi.
-
-👀 I have a strong background in research, data analysis (Excel, SQL, Tableau), and teaching. I'm skilled in scientific writing, project coordination, and strategic planning, with a passion for leveraging analytical skills to drive impactful decision-making in industries.
+💻 I am proficient in analytical tools, including Spreadsheets, Microsoft SQL, Microsoft Power BI, Tableau, and Python programming, for data analysis and visualization.
 
 🌱 I am currently deepening my expertise in Machine Learning by learning to build models that extract meaningful insights from data.
 
