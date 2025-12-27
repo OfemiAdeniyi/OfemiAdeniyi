@@ -2,7 +2,7 @@
 
 **Data Scientist | ML Practitioner | Problem Solver**  
 
-I build **data-driven solutions** using Python — from analytics to ML models and impactful apps.
+I build **data-driven solutions** using Python — from analytics to ML models and impactful solutions.
 
 🔭 I’m currently working on:
 
