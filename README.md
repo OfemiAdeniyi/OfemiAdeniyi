@@ -1,14 +1,14 @@
-## Hi, I’m Micheal Adeniyi.
+### 👋 Hi, I’m Micheal Adeniyi
+**Data Scientist | ML Practitioner | Problem Solver**  
+I build **data-driven solutions** using Python — from analytics to ML models and impactful apps.
 
-👀 I have a strong background in research, data analysis (Excel, SQL, Tableau), and teaching. I'm skilled in scientific writing, project coordination, and strategic planning, with a passion for leveraging analytical skills to drive impactful decision-making in industries.
+🔭 I’m currently working on:
+• Machine learning projects  
+• Data analysis & visualization  
+• Reproducible research & open source
 
-💻 I am proficient in analytical tools, including Spreadsheets, Microsoft SQL, Microsoft Power BI, Tableau, and Python programming, for data analysis and visualization.
+💼 Skills: Python · SQL · Machine Learning · Data Visualization · Web Apps · APIs  
 
-🌱 I am currently deepening my expertise in Machine Learning by learning to build models that extract meaningful insights from data.
-
-💼 I’m actively seeking opportunities to collaborate with forward-thinking organizations where I can apply my data-driven insights to foster growth and innovation.
-
-📧 You can reach me at oluwafemiadeniyi772@gmail.com 📞+2348107347266
-
-⚡ Fun fact: I once read an entire 250-page book in a single day just because I couldn’t put it down!
--->
+📫 Get in touch:  
+LinkedIn: https://www.linkedin.com/in/michealadeniyi
+Email: oluwafemiadeniyi772@gmail.com
