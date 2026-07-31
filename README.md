@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Micheal Adeniyi</h1>
-<h3 align="center">Machine Learning Engineer | Computer Vision & RAG Systems | Building AI for Health-Tech</h3>
+<div align="center">
 
-<p align="center">I design and ship end-to-end ML systems — from model training to production deployment — with a focus on computer vision and applied AI for real-world, low-resource environments.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,50:144272,100:2C74B3&height=180&section=header&text=Micheal%20Adeniyi&fontSize=45&fontColor=2CE8D5&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%26%20RAG%20Systems&descSize=16&descColor=E5F4F2&descAlignY=62&animation=fadeIn" width="100%"/>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=ofemiadeniyi&label=Profile%20views&color=0e75b6&style=flat" alt="ofemiadeniyi" />
-</p>
+<p>I design and ship end-to-end ML systems — from model training to production deployment — with a focus on computer vision and applied AI for real-world, low-resource environments.</p>
+
+<img src="https://komarev.com/ghpvc/?username=ofemiadeniyi&label=Profile%20views&color=144272&style=flat" alt="ofemiadeniyi" />
+
+</div>
 
 ---
 
@@ -14,7 +15,7 @@
 - **[CellVue](https://cellvue-scan-assist.lovable.app)** — an AI-powered mobile diagnostic and disease surveillance platform for Primary Health Centres, combining computer vision on a low-cost optical adapter with a production ML pipeline. Built under **HealingPro Technologies Limited**, where I'm Founder/CEO.
   - 🔗 Product MVP: [cellvue-scan-assist.lovable.app](https://cellvue-scan-assist.lovable.app)
   - 🔗 Surveillance Dashboard: [healingprotech--cellvue.retool.app](https://healingprotech--cellvue.retool.app/)
-- **Policy.ng AI** — a Retrieval-Augmented Generation (RAG) system for querying Nigerian government policy documents, where I served as Lead AI Architect.
+- **[Policy.ng AI](https://policy.ng)** — a Retrieval-Augmented Generation (RAG) system for querying Nigerian government policy documents, where I served as Lead AI Architect.
 
 ### ⚙️ Technical expertise
 
@@ -28,7 +29,7 @@
 
 - Proven ability to take ML products from prototype to production — CellVue went from a **DeepTech Ready Hackathon runner-up** to a validated MVP with live dashboards, now backed by a formal **Letter of Interest for clinical validation from the Ogun State Ministry of Health**.
 - Comfortable owning the full ML lifecycle: data processing → model training → API deployment → dashboard/monitoring integration.
-- Peer-reviewed research in AI diagnostics.
+- Peer-reviewed research in AI diagnostics — [DOI: 10.2196/84758](https://doi.org/10.2196/84758).
 - Currently deepening expertise in computer vision for diagnostics and production RAG systems.
 
 ### 📫 Reach me
