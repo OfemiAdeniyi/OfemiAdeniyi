@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,50:144272,100:2C74B3&height=180&section=header&text=Micheal%20Adeniyi&fontSize=45&fontColor=2CE8D5&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%26%20RAG%20Systems&descSize=16&descColor=E5F4F2&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,50:144272,100:2C74B3&height=180&section=header&text=Micheal%20Adeniyi&fontSize=45&fontColor=2CE8D5&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20and%20RAG%20Systems&descSize=16&descColor=E5F4F2&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <p>I design and ship end-to-end ML systems — from model training to production deployment — with a focus on computer vision and applied AI for real-world, low-resource environments.</p>
 
